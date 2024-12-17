@@ -1,4 +1,4 @@
 {
-    "sujon0xff": "your-rc4-key-here",
-    "freedom0xff": "your-xor-key-here"
+    "rc4Key": "base64_encoded_rc4_key",
+    "xorKey": "base64_encoded_xor_key"
 }
