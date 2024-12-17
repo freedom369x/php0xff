@@ -1,4 +1,4 @@
 {
-    "rc4Key": "Zm9vYmFyMTIzNDU=", // Base64 encoded RC4 key
-    "xorKey": "YmF6cXV4MTIzNDU="  // Base64 encoded XOR key
+  "freedom0xff1": "Zml4ZWRSQzRLZXkxMjM0NQ==",
+  "freedom0xff2": "Zml4ZWRYT1JLZXkxMjM="
 }
