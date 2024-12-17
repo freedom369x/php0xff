@@ -1,4 +1,4 @@
-{ 
-    "rc4Key": "sujon0xff", 
-    "xorKey": "freedom0xff" 
+{
+    "rc4Key": "fixedRc4Key12345",
+    "xorKey": "fixedXorKey123"
 }
